@@ -28,3 +28,27 @@ Implement landing page according to [Figma design](https://www.figma.com/file/dY
 > To update you PR repeat steps 7-11.
 
 15. Check yourself using the [CHECKLIST](https://github.com/mate-academy/layout_creativeBakery/blob/master/checklist.md) when finished;
+
+
+# DEMOLINK
+
+https://NadjaChernygina.github.io/layout_landing-page
+
+# Sport Landing Page
+
+This is a landing page for freediving courses.
+
+## How to run
+
+1. Clone the repository:
+   
+   git clone https://github.com/NadjaChernygina/sport-landing-page.git
+   cd sport-landing-page
+
+##  Install dependencies:
+
+npm install
+
+##  Start the project:
+
+npm run dev
