@@ -32,7 +32,7 @@ Implement landing page according to [Figma design](https://www.figma.com/file/dY
 
 # DEMOLINK
 
-https://NadjaChernygina.github.io/layout_landing-page
+https://NadjaChernygina.github.io/layout_creativeBakery/
 
 # Sport Landing Page
 
