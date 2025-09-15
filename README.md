@@ -11,7 +11,7 @@ This is a landing page for Creative Bakery.
 
 ## How to run
 
-1. Clone the repository git clone from develop branch
+1. Clone the repository ##  git clone from develop branch
 
 ##  Install dependencies:
 
