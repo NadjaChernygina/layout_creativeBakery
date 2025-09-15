@@ -1,1 +1,45 @@
-$c-gray: #eee;
+$color-white: #EEF7FF;
+$color-black: #1C1A26;
+$bg-light-blue: #EEF7FF;
+$color-grey: #7F8096;
+$color-grey--dark: #333;
+$color-main-accent: #F9512E;
+$border-radius--small: 8px;
+$border-radius--big: 30px;
+$table-min-width: 768px;
+$desktop-min-width: 1025px;
+$effectDuration: 0.3s;
+$main-text-color: #292929;
+$link-color: #ff6f61;
+$link-color-hover: #7c7a7a;
+$text-font-size: 16px;
+$text-line-height: 140%;
+$primary-font-family: 'Space Mono', monospace;
+$secondary-font-family: 'Space Grotesk', sans-serif;
+
+
+// button vars
+$font-weight: 500;
+$button-padding: 12px 24px;
+$button-font-size: 16px;
+$button-line-height: 120%;
+
+$button-color: #F9512E;
+$button-background-color: transparent;
+$button-border-color: #F9512E;
+$button-icon-color: #F9512E;
+
+$button-color--hover: #fff;
+$button-background-color--hover: #F9512E;
+$button-border-color--hover: #F9512E;
+$button-icon-color--hover: #fff;
+
+$button-color--active: $button-color--hover;
+$button-background-color--active: #B2341A;
+$button-border-color--active: #B2341A;
+$button-icon-color--active: #fff;
+
+$button-color--disabled: #FBA28F;
+$button-background-color--disabled: transparent;
+$button-border-color--disabled: #FBA28F;
+$button-icon-color--disabled: #FBA28F;
