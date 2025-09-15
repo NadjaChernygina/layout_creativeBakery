@@ -7,11 +7,11 @@ https://NadjaChernygina.github.io/layout_creativeBakery/
 
 # Sport Landing Page
 
-This is a landing page for freediving courses.
+This is a landing page for Creative Bakery.
 
 ## How to run
 
-1. Clone the repository
+1. Clone the repository git clone from develop branch
 
 ##  Install dependencies:
 
